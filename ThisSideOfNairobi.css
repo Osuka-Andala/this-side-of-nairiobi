@@ -1,0 +1,39 @@
+header{
+	background-image: url("Nairobi.jpg");
+	background-size: cover;
+    background-position: top;
+    text-align: center;
+    animation-name: example;
+    animation-duration: 7s;
+}
+
+@keyframes example {
+    0%   {background-image: url("Nairobi.jpg");}
+   25% { background-image: url("Nairobi 2.jpg");}
+}
+
+h1{
+	padding-top: 750px;
+ 	font-size: 100px;
+
+ }
+
+ #mylinks{
+ 	font-size: 30px;
+ 	color: white;
+background-color: #D0D0D0;
+ }
+ p{
+ 	font-size: 30px;
+ 	padding: 50px 0px 30px 0px;
+ 	color: white;
+ 
+ }
+ body{
+ 	background-image: url("Nairobi 2.jpg");
+ }
+ footer{
+ 	text-align: center;
+ 	font-size: 25px;
+ 	background-color: #D0D0D0;
+ }
