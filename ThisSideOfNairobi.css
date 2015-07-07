@@ -4,7 +4,7 @@ header{
     background-position: top;
     text-align: center;
     animation-name: example;
-    animation-duration: 7s;
+    animation-duration: 8s;
 }
 
 @keyframes example {
