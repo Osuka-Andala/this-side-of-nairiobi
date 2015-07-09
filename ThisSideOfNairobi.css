@@ -1,15 +1,21 @@
-header{
+#header{
 	background-image: url("Nairobi.jpg");
 	background-size: cover;
     background-position: top;
     text-align: center;
+    margin: 0px;
     animation-name: example;
-    animation-duration: 8s;
+    animation-duration: 5s;
 }
 
 @keyframes example {
-    0%   {background-image: url("Nairobi.jpg");}
-   25% { background-image: url("Nairobi 2.jpg");}
+    0%  {background-image: url("Nairobi.jpg");}
+    25% {background-image: url("Nairobi 2.jpg");}
+   /*25%  {background-image: url("001_NAIROBI_WEBREADY_MUTUA-MATHEKA-12.jpg");}*/
+   /*50%  {background-image: url("001_NAIROBI_WEBREADY_MUTUA-MATHEKA-5.jpg"); }
+   75%  {background-image: url("mutua-matheka-MATATU-CULTURE-5.jpg"); }
+   100% {background-image: url("001_NAIROBI_WEBREADY_MUTUA-MATHEKA-4.jpg"); }*/
+
 }
 
 h1{
@@ -19,21 +25,25 @@ h1{
  }
 
  #mylinks{
- 	font-size: 30px;
- 	color: white;
-background-color: #D0D0D0;
+    display: inline;
+ 	 font-size: 30px;
+ 	 color: white;
+     background: rgba(0,0,0,0.5);
+     padding: 20px
  }
+
+ 
  p{
  	font-size: 30px;
  	padding: 50px 0px 30px 0px;
  	color: white;
  
  }
- body{
+ #Section{
  	background-image: url("Nairobi 2.jpg");
  }
  footer{
  	text-align: center;
  	font-size: 25px;
- 	background-color: #D0D0D0;
+ 	background: rgba(0,0,0,0.5);
  }
