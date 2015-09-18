@@ -29,7 +29,10 @@ h1 span {
     border: 5px solid #000;
 }
 
- 
+nav{
+ background-color: #757575;
+}
+
 
  p{
  	font-size: 30px;
@@ -41,7 +44,6 @@ h1 span {
  	background-image: url("Nairobi 2.jpg");
  }
  footer{
- 	text-align: center;
- 	font-size: 25px;
- 	background: rgba(0,0,0,0.5);
+  background-color: #757575;
+
  }
