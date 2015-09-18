@@ -8,6 +8,9 @@
     animation-name: example;
     animation-duration: 15s;
 }
+body{
+	background-color: #C8C8C8;
+}
 
 @keyframes example {
     0%  {background-image: url("Nairobi.jpg");}
@@ -37,11 +40,10 @@ nav{
  p{
  	font-size: 30px;
  	padding: 50px 0px 30px 0px;
- 	
 
  }
- #Section{
- 	background-image: url("Nairobi 2.jpg");
+ #text2{
+ 	padding: 20px;
  }
  footer{
   background-color: #757575;
