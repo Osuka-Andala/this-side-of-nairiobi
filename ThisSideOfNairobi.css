@@ -1,11 +1,12 @@
 #header{
-	background-image: url("Nairobi.jpg");
-	background-size: cover;
-    background-position: top;
+	  background-image: url("Nairobi.jpg");
+	  background-size: cover;
+		height: 930px;
+    background-position: center;
     text-align: center;
     margin: 0px;
     animation-name: example;
-    animation-duration: 5s;
+    animation-duration: 15s;
 }
 
 @keyframes example {
@@ -18,20 +19,17 @@
 
 }
 
-h1{
-	padding-top: 750px;
- 	font-size: 100px;
+h1 {
+  font-size: 100px;
+  font-family: Tahoma;
+  font-weight: bold;
+  margin-top: 400px;
+}
+h1 span {
+    border: 5px solid #000;
+}
 
- }
-
- #mylinks{
-    display: inline;
- 	 font-size: 30px;
- 	 color: white;
-     background: rgba(0,0,0,0.5);
-     padding: 20px
- }
-
+ 
 
  p{
  	font-size: 30px;
