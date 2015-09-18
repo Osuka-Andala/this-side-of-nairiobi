@@ -6,13 +6,13 @@
     text-align: center;
     margin: 0px;
     animation-name: example;
-    animation-duration: 10s;
+    animation-duration: 15s;
 }
 body{
 	background-color: #C8C8C8;
 }
 
-@keyframes example {
+ @keyframes example {
     0%  {background-image: url("Nairobi.jpg");}
     25% {background-image: url("usiku.jpg");}
    /*25%  {background-image: url("001_NAIROBI_WEBREADY_MUTUA-MATHEKA-12.jpg");}*/
