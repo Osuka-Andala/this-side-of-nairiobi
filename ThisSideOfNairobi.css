@@ -1,12 +1,12 @@
 #header{
 	  background-image: url("rsz_1nairobi.jpg");
 	  background-size: cover;
-		height: 930px;
+		height: 600px;
     background-position: center;
     text-align: center;
     margin: 0px;
     animation-name: example;
-    animation-duration: 15s;
+    animation-duration: 20s;
 }
 body{
 	background-color: #C8C8C8;
