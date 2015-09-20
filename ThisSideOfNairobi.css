@@ -15,6 +15,7 @@ body{
  @keyframes example {
     0%  {background-image: url("rsz_1nairobi.jpg");}
     25% {background-image: url("rsz_usiku.jpg");}
+		50% {background-image: url("rsz_matatu.jpg")}
    /*25%  {background-image: url("001_NAIROBI_WEBREADY_MUTUA-MATHEKA-12.jpg");}*/
    /*50%  {background-image: url("001_NAIROBI_WEBREADY_MUTUA-MATHEKA-5.jpg"); }
    75%  {background-image: url("mutua-matheka-MATATU-CULTURE-5.jpg"); }
